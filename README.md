@@ -1,11 +1,17 @@
-# 🧡 Customer Service & Sales Dashboard (Power BI)
+#  Customer Service & Sales Dashboard (Power BI)
 
 ### 📊 Overview
 This Power BI report analyzes **sales performance, customer satisfaction (CSAT), and order behavior** across multiple perspectives — by channel, category, product, and people.  
 It provides management insights into revenue trends, service quality, and operational efficiency using a consistent orange-black theme.
 
-The dashboard is fully interactive and designed for call-center or e-commerce environments where both sales and customer experience metrics matter.
+The dashboard is fully interactive and designed for call-center where both sales and customer experience metrics matter.
 
+---
+
+## 📘 Full List of DAX Measures
+You can view all DAX calculations used in this dashboard — including KPIs, time intelligence, and % change measures — in a separate file below:
+
+👉 [View DAX_Measures.md](DAX_Measures.md)
 ---
 
 ## 🧱 Report Pages
@@ -76,13 +82,4 @@ The dashboard is fully interactive and designed for call-center or e-commerce en
 
 ---
 
-## 🧠 Insights
-- Inbound calls dominate sales (≈ 78 % of total).  
-- CSAT remains stable around 3.9 – 4.0 across all categories.  
-- Refund and Cancellation categories drive most dissatisfaction.  
-- Top agents: **Aaron Henderson** and **Aaron Romero**.  
-- Best-performing managers: **John Smith** and **Olivia Tan**.  
 
----
-
-## 📁 Repository Structure
