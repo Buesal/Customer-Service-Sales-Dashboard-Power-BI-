@@ -76,6 +76,7 @@ You can view all DAX calculations used in this dashboard — including KPIs, tim
 ---
 
 ## 🧩 Data Model
+![Channel](screenshots/Model.png)
 - **Fact tables:** Sales, Orders, Customer Feedback.  
 - **Dimensions:** Channel, Category, Product, Agent, Manager, Calendar.  
 - Relationships are one-to-many (*1:*) with single-direction filtering for clean context.  
